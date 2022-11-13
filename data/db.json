@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "title": "paycheck",
+            "money": 30000,
+            "type": "income",
+            "id": 1
+        },
+        {
+            "title": "rent",
+            "money": 10000,
+            "type": "expense",
+            "id": 2
+        }
+    ]
+}
